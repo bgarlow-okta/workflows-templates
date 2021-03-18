@@ -76,7 +76,7 @@ This is the Template description that will be displayed in the product.
 
 ##### Format:
 
-*   Please use this setup guide template as a starting point: [setup guide template](https://github.com/bgarlow-okta/workflows-templates/blob/main/instructions/setup%20guide%20template.md). The template is a markdown document, which is the final format that will be used by the product. Please use this template and attach a link your setup guide in markdown if possible.
+*   Please use this [setup guide template](https://github.com/bgarlow-okta/workflows-templates/blob/main/instructions/setup%20guide%20template.md) as a starting point. The template is a markdown document, which is the final format that will be used by the product. Please use this template and attach a link your setup guide in markdown if possible.
 *   If you are unfamiliar with markdown, you can simply copy the body of the template into a Google Doc and attach the link to that document in the Trello card. Or, if you are ambitious you could try converting your Google Doc to markdown by using this Google Doc extension: [https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607.](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607.)
 
 ---
